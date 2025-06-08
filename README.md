@@ -1,6 +1,6 @@
 # Exploring Deep Learning Models for the Detection of Online Misogyny
  
-This is my Project under [Professor Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) with PhD Mithun Das where we have explored various Deep Learning Models for the detection of Online Mysogyny. We have experimented with various datasets and will be presenting the results in a Paper. 
+This is my college NLP project to detect online misogyny  
 
 ### Dataset Details
 
